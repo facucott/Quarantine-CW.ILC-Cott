@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quarantine-CW.ILC-Cott/static/css/main.e77b1442.css",
+    "main.js": "/Quarantine-CW.ILC-Cott/static/js/main.6e2bb5af.js",
+    "index.html": "/Quarantine-CW.ILC-Cott/index.html",
+    "main.e77b1442.css.map": "/Quarantine-CW.ILC-Cott/static/css/main.e77b1442.css.map",
+    "main.6e2bb5af.js.map": "/Quarantine-CW.ILC-Cott/static/js/main.6e2bb5af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77b1442.css",
+    "static/js/main.6e2bb5af.js"
+  ]
+}
