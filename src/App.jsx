@@ -7,25 +7,26 @@ function App (){
           <NavBar/>
           <div className="titulo">
             <br />
-        <h2>¡Bienvenidos al sitio oficial de The Three Of Quarantine!</h2>
-        <br />
-        <p>
+          <h2>¡Bienvenidos al sitio oficial de The Three Of Quarantine!</h2>
+          <br />
+          <p>
             <i>
                 "... rock crudo y de alma góspel: interpretaciones minimalistas que dejan entreoír un lejano traqueteo, crujen en estrépito y se silencian..."
             </i>
-        </p>
-        <br />
-        <hr />
-        <br />
-        <p>
+          </p>
+          <br />
+          <hr />
+          <br />
+          <p>
             <h5>
             The Three of Quarantine nace durante la - ya conocida - pandemia, como la puesta en marcha de un viejo proyecto de tres amigos: 
             </h5>
-        </p>
-        </div>
-          <ItemListContainer name ="Gabriel Casiraghi" instrument= "Voz/Guiarra Acústica"/>
-          <ItemListContainer name ="Juan Comi" instrument= "CigarBox/Guitarra Eléctrica/Coros"/>
-          <ItemListContainer name ="Facundo Cott" instrument= "Washboard/Batería/Coros"/>
+            <br />
+          </p>
+          </div>
+            <ItemListContainer name ="Gabriel Casiraghi" instrument= "Voz/Guiarra Acústica"/>
+            <ItemListContainer name ="Juan Comi" instrument= "CigarBox/Guitarra Eléctrica/Coros"/>
+            <ItemListContainer name ="Facundo Cott" instrument= "Washboard/Batería/Coros"/>
         </div>
   )
 }
