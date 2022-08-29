@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Quarantine-CW.ILC-Cott/static/css/main.3da3dbf8.css",
-    "main.js": "/Quarantine-CW.ILC-Cott/static/js/main.10f52678.js",
+    "main.css": "/Quarantine-CW.ILC-Cott/static/css/main.e8fcc180.css",
+    "main.js": "/Quarantine-CW.ILC-Cott/static/js/main.79fcf46b.js",
     "index.html": "/Quarantine-CW.ILC-Cott/index.html",
-    "main.3da3dbf8.css.map": "/Quarantine-CW.ILC-Cott/static/css/main.3da3dbf8.css.map",
-    "main.10f52678.js.map": "/Quarantine-CW.ILC-Cott/static/js/main.10f52678.js.map"
+    "main.e8fcc180.css.map": "/Quarantine-CW.ILC-Cott/static/css/main.e8fcc180.css.map",
+    "main.79fcf46b.js.map": "/Quarantine-CW.ILC-Cott/static/js/main.79fcf46b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3da3dbf8.css",
-    "static/js/main.10f52678.js"
+    "static/css/main.e8fcc180.css",
+    "static/js/main.79fcf46b.js"
   ]
 }
